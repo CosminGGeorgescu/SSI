@@ -22,64 +22,64 @@ atacuri cibernetice
 
 # 3
 
-- $ 12_{10} = 1100_{2} $
+- $12_{10} = 1100_{2}$
 
-- $ 2574_{10} = 101000001110_{2} $
+- $2574_{10} = 101000001110_{2}$
 
 # 4
 
-- $ \mathrm{COSMIN}_{literal} = {67\ 79\ 83\ 77\ 73\ 78}_{ASCII}$
+- $\mathrm{COSMIN}\_{literal} = {67\ 79\ 83\ 77\ 73\ 78}\_{ASCII}$
 
-- $ {66\ 82\ 65\ 86\ 79}_{ASCII} = \mathrm{BRAVO}_{literal}$
+- ${66\ 82\ 65\ 86\ 79}\_{ASCII} = \mathrm{BRAVO}\_{literal}$
 
 # 5
 
-- $ \mathrm{COSMIN}_{literal} = \mathrm{Q09TTUlO}_{base64}$
+- $\mathrm{COSMIN}\_{literal} = \mathrm{Q09TTUlO}\_{base64}$
 
-- $ \mathrm{\\'U3VudCBzdHVkZW50IGxhIEZNSS4=\\'}_{base64} = \mathrm{\\'Sunt\ student\ la\ FMI.\\'}_{literal} $
+- $\mathrm{\'U3VudCBzdHVkZW50IGxhIEZNSS4=\'}\_{base64} = \mathrm{\'Sunt\ student\ la\ FMI.\'}\_{literal}$
 
 # 6
 
 - ### malware
 
-    $ Software\ destinat\ să\ deterioreze\ un\ computer,\ un dispozitiv\ mobil,\ un\ sistem\ informatic\ sau\ o\ rețea\ de\ calculatoare\ sau\ să\ preia\ controlul\ parțial\ asupra\ funcționării\ acestuia. $
+    $Software\ destinat\ să\ deterioreze\ un\ computer,\ un dispozitiv\ mobil,\ un\ sistem\ informatic\ sau\ o\ rețea\ de\ calculatoare\ sau\ să\ preia\ controlul\ parțial\ asupra\ funcționării\ acestuia.$
 
 - ### virus
 
-    $ Program\ având\ capacitatea\ de\ autoreplicare,\ conceput\ pentru\ a\ perturba\ funcționarea\ calculatoarelor. $
+    $Program\ având\ capacitatea\ de\ autoreplicare,\ conceput\ pentru\ a\ perturba\ funcționarea\ calculatoarelor.$
 
 - ### dropper
 
-    $ Mic\ program\ de\ ajutor\ care\ facilitează\ livrarea\ și\ instalarea\ de\ malware. $
+    $Mic\ program\ de\ ajutor\ care\ facilitează\ livrarea\ și\ instalarea\ de\ malware.$
 
 - ### downloader
 
-    $ Program\ de\ calculator\ care\ ajută\ la\ descărcarea\ fișierelor. $
+    $Program\ de\ calculator\ care\ ajută\ la\ descărcarea\ fișierelor.$
 
 - ### trojan
 
-    $ Program\ malware\ care\ pare\ să\ îndeplinească\ sau\ realizează\ o\ sarcină\ dorită\ pentru\ utilizator\ în\ timp\ ce\ efectuează\ o\ sarcină\ dăunătoare\ fără\ știrea\ sau\ consimțământul\ utilizatorului. $
+    $Program\ malware\ care\ pare\ să\ îndeplinească\ sau\ realizează\ o\ sarcină\ dorită\ pentru\ utilizator\ în\ timp\ ce\ efectuează\ o\ sarcină\ dăunătoare\ fără\ știrea\ sau\ consimțământul\ utilizatorului.$
 
 - ### spyware
 
-    $ Software\ care\ adună\ în\ secret\ informații\ despre\ utilizator,\ de\ obicei\ în\ scopuri\ publicitare,\ prin\ conexiunea\ la\ Internet\ a\ utilizatorului. $
+    $Software\ care\ adună\ în\ secret\ informații\ despre\ utilizator,\ de\ obicei\ în\ scopuri\ publicitare,\ prin\ conexiunea\ la\ Internet\ a\ utilizatorului.$
 
 - ### riskware
 
-    $ Software\ care\ poate\ prezenta\ un\ risc\ pentru\ computerul\ pe\ care\ este\ instalat. $
+    $Software\ care\ poate\ prezenta\ un\ risc\ pentru\ computerul\ pe\ care\ este\ instalat.$
 
 - ### ransomware
 
-    $ Program\ malware\ care\ deține\ datele\ unui\ utilizator\ de\ computer\ pentru\ răscumpărare,\ de\ obicei\ solicitând\ sau\ pretinzând\ că\ necesită\ plată\ pentru\ a\ restabili\ accesul. $
+    $Program\ malware\ care\ deține\ datele\ unui\ utilizator\ de\ computer\ pentru\ răscumpărare,\ de\ obicei\ solicitând\ sau\ pretinzând\ că\ necesită\ plată\ pentru\ a\ restabili\ accesul.$
 
 - ### adware
 
-    $ Aplicație\ software\ care\ include\ reclame,\ care\ sunt\ afișate\ în\ timp\ ce\ software $ \- $ ul\ rulează. $
+    $Aplicație\ software\ care\ include\ reclame,\ care\ sunt\ afișate\ în\ timp\ ce\ software\mathrm{-}ul\ rulează.$
 
 - ### worm
 
-    $ Program\ auto $ \- $ replicant\ care\ se\ propagă\ printr $ \- $ o\ rețea. $
+    $Program\ auto\mathrm{-}replicant\ care\ se\ propagă\ printr\mathrm{-}o\ rețea.$
 
 - ### obfuscare
 
-    $ Modificarea\ codului\ computerului\ pentru\ a\ păstra\ comportamentul,\ ascunzând\ în\ același\ timp\ structura\ și\ intenția. $
+    $Modificarea\ codului\ computerului\ pentru\ a\ păstra\ comportamentul,\ ascunzând\ în\ același\ timp\ structura\ și\ intenția.$
