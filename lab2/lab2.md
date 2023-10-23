@@ -6,30 +6,23 @@
 
 - Criptologie
 
-    $Disciplina\ care\ studiază\ principiile,\ mijloacele\ și\ metodele\
-de\ transformare\ a\ datelor\ pentru\ a\ ascunde\ conținutul\ lor\
-semantic,\ a\ preveni\ utilizarea\ lor\ neautorizată\ sau\ a\ preveni\
-modificarea\ lor\ nedetectată.$
+    $Disciplina\ care\ studiază\ principiile,\ mijloacele\ și\ metodele\ de\ transformare\ a\ datelor\ pentru\ a\ ascunde\ conținutul\ lor\ semantic,\ a\ preveni\ utilizarea\ lor\ neautorizată\ sau\ a\ preveni\ modificarea\ lor\ nedetectată.$
 
 - Criptanaliză
 
-    $Încercarea\ de\ a\ înfrânge\ protecția\ criptografice\ fără\ o\
-cunoaștere\ inițială\ a\ cheii\ utilizate\ în\ furnizarea\ protecției.$
+    $Încercarea\ de\ a\ înfrânge\ protecția\ criptografice\ fără\ o\ cunoaștere\ inițială\ a\ cheii\ utilizate\ în\ furnizarea\ protecției.$
 
 - Confdențialitate
 
-    $Asigurarea\ că\ informațiile\ nu\ sunt\ dezvăluite\
-entităților\ neautorizate.$
+    $Asigurarea\ că\ informațiile\ nu\ sunt\ dezvăluite\ entităților\ neautorizate.$
 
 - Integritate
 
-    $Protejarea\ împotriva\ modificării\ sau\ distrugerii\
-necorespunzătoare\ a\ informațiilor.$
+    $Protejarea\ împotriva\ modificării\ sau\ distrugerii\ necorespunzătoare\ a\ informațiilor.$
 
 - Disponibilitate
 
-    $Asigurarea\ accesului\ și\ utilizării\ informațiilor\ în\ timp\ util\ și\
-fiabil.$
+    $Asigurarea\ accesului\ și\ utilizării\ informațiilor\ în\ timp\ util\ și\ fiabil.$
 
 # 2
 
