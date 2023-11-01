@@ -8,7 +8,7 @@ cc4670db62c249b9f5bada4ed474c9e4d111308b614788cd4fbdc1e949c1629e12fa5fdbd9\'}\_{
 $emsg = \mathrm{\'o9/khC3Pf3/9CyNCbdzHPy5oorccEawZSFt3mgCicRnihDSM8Obhlp3vviAVuBbiOtCSz6husBWqhfF0Q
 /8EZ+6iI9KygD3hAfFgnzyv9w==\'}\_{base64}$
 
-$\frac{key}{emsg\ \vdash\ \mathrm{\'One Time Pad este un sistem de criptare perfect sigur daca este folosit corect.\'}\_{literal}}$
+$\frac{key}{emsg\ \vdash\ \mathrm{\'One\ Time\ Pad\ este\ un\ sistem\ de\ criptare\ perfect\ sigur\ daca\ este\ folosit\ corect.\'}\_{literal}}$
 
 2. $\mathrm{a3dfe4842dcf7f7ffd0b23426ddcc73f2e68a2b71c11ac19485b779a00a27119e284348cf0e6e1969defbe2015b816e23ad092cfa86eb015aa85f17443ff0467eea223d2b2803de101f1609f3caff7}$
 
