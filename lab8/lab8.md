@@ -1,8 +1,8 @@
 # 1
 
-- a) O PNG imagine cu o histograma cu un peak atat de mare catre alb nu ar trebui sa aiba 100KB, dar nu a aparut nicio eroare
+- a) O imagine PNG cu o histograma cu un peak atat de mare catre alb nu ar trebui sa aiba 100KB, dar nu a aparut nicio eroare
 
-- b) Text-ul decodat contine keyword-uri din limbaje de programare (C/C++ si concepte de sisteme de operare)
+- b) Textul decodat contine keyword-uri din limbaje de programare (C/C++ si concepte de sisteme de operare)
 
 ```
 libgcc_s_dw2-1.dll�__register_frame_info�__deregister_frame_info�libgcj-16.dll�_Jv_RegisterClasses���.�impFolderFMI_MALware�gotHackedBye�.pdf�Error opening directory�Hello world!��p@�Mingw runtime failure:
@@ -251,4 +251,4 @@ __DTOR_LIST__�
 
 - d) Presupun ca putem extrage parte de program din fisierul hex si sa folosim un debugger, alaturi de librariile de sistem, pentru a ne da seama ce intentie are malware-ul
 
-- e) Clar contine un malware. Formatul PNG nu ar trebui sa contina in textul decodat cuvinte precum `malloc, memcpy, X86_TUNE_BRANCH_PREDICTION_HINTS, EnterCriticalSection`. Domnul Thor (https://www.virustotal.com/gui/file/dbd3b32b7327855cd335f14becb7f155e8fa166bf440f856752d87b7a44fdda6/community) ne spune ca s-ar putea sa avem un executable embedded in fisier, care nu este executable.
+- e) Clar contine un malware. Formatul PNG nu ar trebui sa contina in textul decodat cuvinte precum `malloc, memcpy, X86_TUNE_BRANCH_PREDICTION_HINTS, EnterCriticalSection`. Domnul Thor (https://www.virustotal.com/gui/file/dbd3b32b7327855cd335f14becb7f155e8fa166bf440f856752d87b7a44fdda6/community) ne spune ca s-ar putea sa avem un executable embedded in fisier, care nu este executable
