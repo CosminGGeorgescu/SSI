@@ -7,4 +7,4 @@
 | 5     | :white_check_mark: |
 | 6     | :white_check_mark: |
 | 7     | :x:                |
-| 8     |                    |
+| 8     | $1, 3$             |
