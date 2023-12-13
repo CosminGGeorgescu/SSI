@@ -8,8 +8,8 @@ $\phi(n) = (p - 1) (q - 1) = 234841136411758272970005817684311852000$
 
 $e = 65537$
 
-$Folosind\ proprietatea\ ca\ d = \frac{\phi(n)\times{k} + 1}{e},\ reiese\
-d = 131139372709478887666895441874581979136$
+$$Folosind\ proprietatea\ ca\ d = \frac{\phi(n)\times{k} + 1}{e},\ reiese\
+d = 131139372709478887666895441874581979136$$
 
 # 2
 
