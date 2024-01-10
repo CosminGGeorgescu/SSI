@@ -1,7 +1,5 @@
-from PIL import Image
 import hashlib
 import pprint
-import cryptography 
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
 
